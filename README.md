@@ -3,5 +3,7 @@ The Reddit Analyzer is a tool designed to monitor and analyze posts on Reddit us
 
 Features:
 Authenticate with Reddit using client ID and client secret.
+
 Monitor new posts in a specified subreddit.
+
 Display information about the top post and users with the most posts.
