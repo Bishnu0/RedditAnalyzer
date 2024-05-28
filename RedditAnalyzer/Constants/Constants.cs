@@ -8,7 +8,8 @@ namespace RedditAnalyzer.Constants
 {
      public class Constants
     {
-        public const string configFilePath = "C:\\Users\\bishn\\source\\repos\\RedditAnalyzer\\RedditAnalyzer\\reddit-config.txt";
+          
+        public const string configFilePath = "C:\\Users\\bishn\\source\\repos\\RedditAnalyzer\\RedditAnalyzer\\reddit-config.txt"; //usually on a somewhere secure location
         public const int callbackPort = 8080;
         public const string LOCALHOST = "localhost";
         public const string browserPath = @"C:\Program Files\Google\Chrome\Application\chrome.exe";
