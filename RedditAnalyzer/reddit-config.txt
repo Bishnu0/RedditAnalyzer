@@ -1,0 +1,4 @@
+﻿ClientId=eIaKAZ7Gmidk_R3J1GzaKw
+ClientSecret=8dotJ89ha1KQ2lsY2U8HnvAyXTtkWQ
+UserAgent=managingsavedposts by DiscombobulatedWin44
+SubredditName=funny
